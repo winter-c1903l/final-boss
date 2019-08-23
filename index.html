@@ -6,18 +6,23 @@
 </head>
 <style>
 
-    .content{
-        border: 1px solid black;
+    .main{
+
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        margin: 500px;
+        margin: 500px 50px;
     }
-    div{
-        border: 1px solid black;
 
+    .content{
+        border: 1px solid lightgrey;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        padding: 50px;
     }
+
+
+
     p{
-        text-align: center;
         font-size: 50px;
     }
     a{
@@ -29,16 +34,16 @@
 
 
 
-<div class="content">
-<div><p>TeamLead</p></div>
+<div class="main">
+<div><p>team lead</p></div>
 <div><p>member 01</p></div>
 <div><p>member 02</p></div>
 <div><p>member 03</p></div>
-    <div><a href="member00/index.html">Nga</a></div>
-    <div><a href="#">Khoa</a></div>
-    <div><a href="huy/huy.html">Huy</a></div>
-    <div><a href="#">Nguyen</a></div>
-</div>
+
+    <div class="content"><a href="nga/index.html">Nga</a></div>
+    <div class="content"><a href="huy/huy.html">Huy</a></div>
+    <div class="content"><a href="khoa/index.html">Khoa</a></div>
+    <div class="content"><a href="#">Nguyen</a></div></div>
 
 </body>
 </html>
