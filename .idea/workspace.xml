@@ -40,7 +40,16 @@
       <option name="presentableId" value="Default" />
       <updated>1566565327847</updated>
       <workItem from="1566565329000" duration="379000" />
+      <workItem from="1566566138225" duration="370000" />
     </task>
+    <task id="LOCAL-00001" summary="huy-member02">
+      <created>1566566185279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566566185279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -51,10 +60,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="huy-member02" />
+    <option name="LAST_COMMIT_MESSAGE" value="huy-member02" />
   </component>
 </project>
